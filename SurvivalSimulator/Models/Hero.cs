@@ -4,5 +4,6 @@
 	{
 		public Hero(string name, int hp, int attackPower)
 			: base(name, hp, attackPower) { }
+
 	}
 }

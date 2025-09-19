@@ -1,6 +1,6 @@
 ﻿namespace SurvivalSimulator.Models
 {
-    public abstract class Character
+	public abstract class Character
     {
         public string Name { get; }
         public int HP { get; private set; }
